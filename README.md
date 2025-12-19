@@ -6,7 +6,7 @@ A personal portfolio website showcasing my skills, projects, and learning journe
 This portfolio highlights my academic background, technical skills, and hands-on project experience. It is designed to present my profile in a clean, professional, and responsive manner.
 
 ## 🚀 Live Demo
-🔗 https://your-live-portfolio-link.com
+🔗 https://akshay-portfolio-bice.vercel.app/
 
 ## 🛠️ Tech Stack
 - React
